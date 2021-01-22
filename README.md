@@ -5,3 +5,6 @@ Run the playbook to install and configure NGINX:
 Run the playbook to sync the website files:
 
 ``ansible-playbook -i inventory.yml sync.yml``
+
+
+https://graspingtech.com/ansible-deploy-digitalocean-droplet/
